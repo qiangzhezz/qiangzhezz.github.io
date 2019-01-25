@@ -1,2 +1,2 @@
-# qiangzhezz.github.io
-Chinese Alumni Association at Auburn University
+# auburncssa.github.io
+Auburn University Chinese Students and Scholars Association
